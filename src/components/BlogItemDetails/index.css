@@ -1,0 +1,24 @@
+.avatarImg {
+  height: 20px;
+}
+
+.mainImage {
+  height: 250px;
+}
+
+.padDiv {
+  padding: 20px 100px 50px 100px;
+}
+
+.authorDiv {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.authorName {
+  margin-top: 0;
+}
+
+.mainDet {
+  color: darkslategrey;
+}

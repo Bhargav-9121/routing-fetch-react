@@ -1,0 +1,43 @@
+.titleImg {
+  height: 200px;
+  width: 350px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.avatarImg {
+  border-radius: 0px;
+  height: 35px !important;
+  border-radius: 20px;
+}
+
+.blogItemLi {
+  display: flex;
+}
+
+hr {
+  margin: 50px 30px 50px 0;
+}
+
+p {
+  color: #8e8e8e;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+h1 {
+  margin-top: 5px;
+  color: black;
+}
+
+.authorDiv {
+  display: flex;
+  align-items: center;
+}
+
+.authorName {
+  margin-top: 0;
+  margin-left: 10px;
+  font-size: 18px;
+  color: grey;
+}
