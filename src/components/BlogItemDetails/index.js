@@ -32,7 +32,7 @@ const BlogItemDetails = props => {
   return (
     <div className="padDiv">
       {isLoading ? (
-        <div data-testid="loader">
+        <div>
           <Loader type="TailSpin" color="#00bfff" height={50} width={50} />
         </div>
       ) : (
